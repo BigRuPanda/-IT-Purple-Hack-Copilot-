@@ -1,0 +1,101 @@
+id;name;price;link;description
+201;Тональный крем L'Oréal True Match;999 рублей;https://example.com/101;Легкий тональный крем с матовым финишем, оттенок N2 Nude Beige. Содержит SPF 17. Подходит для чувствительной кожи.
+202;Помада MAC Matte Lipstick;2490 рублей;https://example.com/102;Матовая помада из коллекции Retro Matte, оттенок Ruby Woo. Устойчивая формула, насыщенный красный цвет.
+203;Тушь для ресниц Maybelline Lash Sensational;699 рублей;https://example.com/103;Объемная тушь с эффектом веера. Щеточка с микрощетинками разделяет каждую ресничку.
+204;Палетка теней Urban Decay Naked3;3990 рублей;https://example.com/104;Палетка из 12 оттенков розовых и нейтральных теней. Матовые и шиммерные текстуры.
+205;Бронзер Hoola от Benefit;2790 рублей;https://example.com/105;Матовый бронзер универсального оттенка. Компактная упаковка с зеркалом и пушистой кистью.
+206;Хайлайтер Becca Shimmering Skin Perfector;2590 рублей;https://example.com/106;Жидкий хайлайтер с перламутровым сиянием, оттенок Champagne Pop.
+207;Карандаш для бровей Anastasia Beverly Hills;1890 рублей;https://example.com/107;Механический карандаш с восковой текстурой, оттенок Soft Brown.
+208;Румяна NARS Blush;2390 рублей;https://example.com/108;Румяна с шелковистой текстурой, оттенок Orgasm. Золотисто-розовый с легким шиммером.
+209;Праймер для лица Smashbox Photo Finish Foundation Primer;2890 рублей;https://example.com/109;Увлажняющий праймер, выравнивает тон кожи и продлевает стойкость макияжа.
+210;Консилер Tarte Shape Tape;2190 рублей;https://example.com/110;Высокопигментированный консилер, оттенок Light Neutral. Скрывает темные круги и покраснения.
+211;Пудра Laura Mercier Translucent Loose Setting Powder;3190 рублей;https://example.com/111;Прозрачная рассыпчатая пудра для фиксации макияжа. Матирует кожу.
+212;Блеск для губ Dior Addict Lip Maximizer;2990 рублей;https://example.com/112;Увлажняющий блеск с эффектом объема, оттенок Pink.
+213;Кисть для макияжа Real Techniques;799 рублей;https://example.com/113;Кисть для нанесения тонального крема, мягкая и плотная щетина.
+214;Палетка корректоров NYX Professional Makeup;1299 рублей;https://example.com/114;Набор из 6 корректоров разных оттенков для маскировки недостатков кожи.
+215;Гель для бровей Benefit Gimme Brow+;2590 рублей;https://example.com/115;Водостойкий гель с микрофиброй, оттенок Medium.
+216;Тени для век Pat McGrath Labs;4590 рублей;https://example.com/116;Шиммерные тени из коллекции Mothership, оттенок Gold 001.
+217;База под макияж глаз Urban Decay Primer Potion;1690 рублей;https://example.com/117;Прозрачная база, увеличивает стойкость теней и яркость цвета.
+218;Помада YSL Rouge Pur Couture;3490 рублей;https://example.com/118;Кремовая помада с увлажняющей формулой, оттенок Le Rouge.
+219;Тушь для бровей Anastasia Beverly Hills;1990 рублей;https://example.com/119;Водостойкая тушь, фиксирует волоски и придает объем.
+220;Палетка хайлайтеров Fenty Beauty Killawatt Freestyle Highlighter;3190 рублей;https://example.com/120;Два оттенка хайлайтеров: металлический и сияющий.
+221;Консилер Maybelline Fit Me Concealer;699 рублей;https://example.com/121;Легкая текстура, оттенок Light. Идеально подходит для ежедневного использования.
+222;Помада-карандаш Kylie Cosmetics;1990 рублей;https://example.com/122;Матовая помада, оттенок Koko K. Удобный аппликатор для точного нанесения.
+223;Палетка теней Morphe 35O;2490 рублей;https://example.com/123;35 теплых оттенков теней, матовые и шиммерные текстуры.
+224;Праймер для век Too Faced Shadow Insurance;1890 рублей;https://example.com/124;Прозрачная база, предотвращает скатывание теней.
+225;Румяна в стике Milk Makeup Lip + Cheek;1990 рублей;https://example.com/125;Универсальный кремовый продукт для губ и щек, оттенок Perk.
+226;Тональный крем Estée Lauder Double Wear;4790 рублей;https://example.com/126;Стойкий тональный крем, оттенок Cool Vanilla. Устойчив к воде и поту.
+227;Блеск для губ Lancôme Juicy Tubes;1990 рублей;https://example.com/127;Прозрачный блеск с ароматом фруктов, оттенок Berry.
+228;Палетка контурирования Kat Von D Shade + Light Contour Palette;3990 рублей;https://example.com/128;6 оттенков для создания четких контуров лица.
+229;Помада Charlotte Tilbury Matte Revolution;2990 рублей;https://example.com/129;Матовая помада с комфортной текстурой, оттенок Pillow Talk.
+230;Тени для век Huda Beauty Obsessions;1990 рублей;https://example.com/130;Мини-палетка из 9 оттенков, коллекция Rose Gold.
+231;Праймер для лица Hourglass Veil Mineral Primer;4290 рублей;https://example.com/131;Минеральная база с легкой текстурой, матирует кожу.
+232;Помада-блеск Dior Addict Stellar Shine;2990 рублей;https://example.com/132;Блестящий финиш, оттенок Star.
+233;Палетка теней Natasha Denona Mini Palette;4990 рублей;https://example.com/133;5 оттенков с металлическим и матовым финишем.
+234;Бронзер Fenty Beauty Sun Stalk'r Instant Warmth Bronzer;2990 рублей;https://example.com/134;Матовый бронзер, оттенок Private Island.
+235;Тушь для ресниц Lancôme Monsieur Big;2190 рублей;https://example.com/135;Объемная тушь с черной щеточкой, создает эффект "паучьих лапок".
+236;Помада Tom Ford Lip Color;4990 рублей;https://example.com/136;Кремовая помада с насыщенным пигментом, оттенок Scarlet Rouge.
+237;Палетка теней ColourPop Yes, Please!;1490 рублей;https://example.com/137;12 оттенков теплых теней, матовые и металлические текстуры.
+238;Праймер для лица The Ordinary High-Adherence Silicone Primer;590 рублей;https://example.com/138;Прозрачная база с силиконовой основой, выравнивает поры.
+239;Помада-карандаш Fenty Beauty Stunna Lip Paint;2990 рублей;https://example.com/139;Устойчивая жидкая помада, оттенок Uncensored.
+240;Палетка хайлайтеров Anastasia Beverly Hills Amrezy Highlighter;3490 рублей;https://example.com/140;4 оттенка хайлайтеров для создания сияющего макияжа.
+241;Тональный крем Giorgio Armani Power Fabric;5990 рублей;https://example.com/141;Стойкий тональный крем, оттенок 4. Полуматовый финиш.
+242;Помада Givenchy Le Rouge;3990 рублей;https://example.com/142;Кремовая помада с увлажняющей формулой, оттенок Red Carpet.
+243;Палетка теней Pat McGrath Labs Mothership V;5990 рублей;https://example.com/143;10 оттенков теней с металлическим и матовым финишем.
+244;База под макияж Marc Jacobs Under(cover) Perfecting Coconut Face Primer;3990 рублей;https://example.com/144;Увлажняющая база с кокосовым маслом, выравнивает тон кожи.
+245;Помада Bite Beauty Power Move Creamy Matte Lip Crayon;1990 рублей;https://example.com/145;Матовая помада-карандаш, оттенок Nude.
+246;Палетка теней Huda Beauty Mercury Retrograde;4990 рублей;https://example.com/146;18 оттенков теней с металлическим и матовым финишем.
+247;Праймер для лица Smashbox Photo Finish Foundation Primer Oil Free;2890 рублей;https://example.com/147;Безмасляная база, контролирует жирный блеск.
+248;Помада Chanel Rouge Coco Flash;3990 рублей;https://example.com/148;Блестящая помада с увлажняющей формулой, оттенок Boy.
+249;Палетка теней Anastasia Beverly Hills Modern Renaissance;3990 рублей;https://example.com/149;14 оттенков теплых теней, матовые и шиммерные текстуры.
+250;Тушь для ресниц Benefit They're Real!;2590 рублей;https://example.com/150;Объемная тушь с удлиняющим эффектом, черная.
+251;Палетка теней Huda Beauty Nude Obsessions;2490 рублей;https://example.com/151;Мини-палетка из 9 нейтральных оттенков, матовые и шиммерные текстуры.
+252;База под макияж Too Faced Hangover Replenishing Face Primer;2890 рублей;https://example.com/152;Увлажняющая база с экстрактом кокосовой воды, выравнивает кожу.
+253;Помада MAC Lipstick;2190 рублей;https://example.com/153;Кремовая помада с насыщенным пигментом, оттенок Chili. Идеально подходит для осеннего макияжа.
+254;Тональный крем Dior Forever Skin Glow;5490 рублей;https://example.com/154;Легкий тональный крем с сияющим финишем, оттенок 0N. Содержит SPF 35.
+255;Палетка румян и хайлайтеров Anastasia Beverly Hills Amrezy Cheek Palette;3990 рублей;https://example.com/155;8 оттенков для создания многомерного макияжа щек.
+256;Тушь для ресниц Lancôme Hypnôse Drama;2490 рублей;https://example.com/156;Объемная тушь с эффектом драматичных ресниц, черная.
+257;Помада-блеск YSL Vinyl Cream Lip Stain;2990 рублей;https://example.com/157;Жидкая помада с виниловым финишем, оттенок Red Temptation.
+258;Праймер для лица Laura Mercier Foundation Primer - Radiance;3190 рублей;https://example.com/158;Сияющая база с легкой текстурой, придает коже здоровое сияние.
+259;Палетка теней Natasha Denona Mini Lila Palette;4990 рублей;https://example.com/159;5 оттенков фиолетовых теней с металлическим и матовым финишем.
+260;Бронзер Hourglass Ambient Lighting Bronzer;4290 рублей;https://example.com/160;Матовый бронзер с легким шиммером, оттенок Diffused Bronze Light.
+261;Помада Tom Ford Boys & Girls;2990 рублей;https://example.com/161;Компактная помада с увлажняющей формулой, оттенок Diego.
+262;Палетка теней Pat McGrath Labs Mothership VI;5990 рублей;https://example.com/162;10 оттенков холодных теней с металлическим и матовым финишем.
+263;Тональный крем NARS Sheer Glow Foundation;4490 рублей;https://example.com/163;Легкий тональный крем с сияющим финишем, оттенок Punjab. Подходит для нормальной и сухой кожи.
+264;Помада Bite Beauty Power Move Matte Lip Crayon;1990 рублей;https://example.com/164;Матовая помада-карандаш, оттенок Hazelnut. Удобный аппликатор для точного нанесения.
+265;Палетка теней ColourPop Bare Necessities;1490 рублей;https://example.com/165;12 оттенков нейтральных теней, матовые и шиммерные текстуры.
+266;Праймер для лица The Ordinary High-Spreadability Fluid Primer;590 рублей;https://example.com/166;Легкая база с гелевой текстурой, выравнивает поры.
+267;Помада-карандаш Fenty Beauty Slip Shine Sheer Shiny Lipstick;2990 рублей;https://example.com/167;Увлажняющая помада с блестящим финишем, оттенок Glazed Honey.
+268;Палетка хайлайтеров Anastasia Beverly Hills Gleam Kit;3490 рублей;https://example.com/168;5 оттенков хайлайтеров для создания яркого сияющего макияжа.
+269;Тональный крем Giorgio Armani Luminous Silk Foundation;5990 рублей;https://example.com/169;Легкий тональный крем с естественным сиянием, оттенок 4. Формула на основе микросфер.
+270;Помада Givenchy Le Rouge Deep Velvet;3990 рублей;https://example.com/170;Матовая жидкая помада с устойчивой формулой, оттенок 33 Rouge Grainé.
+271;Палетка теней Pat McGrath Labs Mothership VII;5990 рублей;https://example.com/171;10 оттенков теплых теней с металлическим и матовым финишем.
+272;База под макияж Marc Jacobs Under(cover) Perfecting Coconut Eye Primer;3990 рублей;https://example.com/172;Увлажняющая база для век с кокосовым маслом, увеличивает стойкость теней.
+273;Помада Bite Beauty Power Move Creamy Matte Lip Crayon;1990 рублей;https://example.com/173;Матовая помада-карандаш, оттенок Fig. Удобный аппликатор для точного нанесения.
+274;Палетка теней Huda Beauty Desert Dusk;4990 рублей;https://example.com/174;18 оттенков теплых теней с металлическим и матовым финишем.
+275;Праймер для лица Smashbox Photo Finish Foundation Primer Oil Free;2890 рублей;https://example.com/175;Безмасляная база, контролирует жирный блеск.
+276;Помада Chanel Rouge Allure Ink Fusion;3990 рублей;https://example.com/176;Устойчивая жидкая помада с матовым финишем, оттенок Intense Rouge.
+277;Палетка теней Anastasia Beverly Hills Soft Glam;3990 рублей;https://example.com/177;14 оттенков теплых теней, матовые и шиммерные текстуры.
+278;Тушь для ресниц Benefit Roller Lash;2590 рублей;https://example.com/178;Удлиняющая тушь с эффектом "завитых" ресниц, черная.
+279;Помада MAC Powder Kiss Lipstick;2190 рублей;https://example.com/179;Матовая помада с бархатистой текстурой, оттенок Devoted To Chili.
+280;Палетка теней Natasha Denona Gold Palette;4990 рублей;https://example.com/180;15 оттенков золотых теней с металлическим и матовым финишем.
+281;База под макияж Too Faced Born This Way Ethereal Glow Primer;2890 рублей;https://example.com/181;Увлажняющая база с перламутровым сиянием, выравнивает тон кожи.
+282;Помада MAC Retro Matte Liquid Lipcolour;2490 рублей;https://example.com/182;Устойчивая жидкая помада с матовым финишем, оттенок Feels So Grand.
+283;Палетка теней Huda Beauty Rose Gold Remastered;4990 рублей;https://example.com/183;18 оттенков розово-золотых теней с металлическим и матовым финишем.
+284;Тональный крем Dior Forever Skin Couture;5490 рублей;https://example.com/184;Легкий тональный крем с полуматовым финишем, оттенок 0N. Содержит SPF 35.
+285;Помада YSL Rouge Pur Couture The Slim;3490 рублей;https://example.com/185;Матовая помада с устойчивой формулой, оттенок Nude Antique.
+286;Палетка теней Pat McGrath Labs Mothership VIII;5990 рублей;https://example.com/186;10 оттенков холодных теней с металлическим и матовым финишем.
+287;База под макияж Laura Mercier Foundation Primer - Hydrating;3190 рублей;https://example.com/187;Увлажняющая база с легкой текстурой, придает коже мягкость.
+288;Помада Bite Beauty Power Move Matte Lip Crayon;1990 рублей;https://example.com/188;Матовая помада-карандаш, оттенок Almond. Удобный аппликатор для точного нанесения.
+289;Палетка теней ColourPop You Had Me At Hello;1490 рублей;https://example.com/189;12 оттенков теплых теней, матовые и шиммерные текстуры.
+290;Праймер для лица The Ordinary High-Adherence Silicone Primer;590 рублей;https://example.com/190;Прозрачная база с силиконовой основой, выравнивает поры.
+291;Помада-карандаш Fenty Beauty Slip Shine Sheer Shiny Lipstick;2990 рублей;https://example.com/191;Увлажняющая помада с блестящим финишем, оттенок Sugar Candy.
+292;Палетка хайлайтеров Anastasia Beverly Hills Gleam Kit;3490 рублей;https://example.com/192;5 оттенков хайлайтеров для создания яркого сияющего макияжа.
+293;Тональный крем Giorgio Armani Luminous Silk Foundation;5990 рублей;https://example.com/193;Легкий тональный крем с естественным сиянием, оттенок 4. Формула на основе микросфер.
+294;Помада Givenchy Le Rouge Deep Velvet;3990 рублей;https://example.com/194;Матовая жидкая помада с устойчивой формулой, оттенок 33 Rouge Grainé.
+295;Палетка теней Pat McGrath Labs Mothership IX;5990 рублей;https://example.com/195;10 оттенков теплых теней с металлическим и матовым финишем.
+296;База под макияж Marc Jacobs Under(cover) Perfecting Coconut Eye Primer;3990 рублей;https://example.com/196;Увлажняющая база для век с кокосовым маслом, увеличивает стойкость теней.
+297;Помада Bite Beauty Power Move Creamy Matte Lip Crayon;1990 рублей;https://example.com/197;Матовая помада-карандаш, оттенок Blackberry. Удобный аппликатор для точного нанесения.
+298;Палетка теней Huda Beauty Mercury Retrograde;4990 рублей;https://example.com/198;18 оттенков теплых теней с металлическим и матовым финишем.
+299;Праймер для лица Smashbox Photo Finish Foundation Primer Oil Free;2890 рублей;https://example.com/199;Безмасляная база, контролирует жирный блеск.
+300;Помада Chanel Rouge Allure Ink Fusion;3990 рублей;https://example.com/200;Устойчивая жидкая помада с матовым финишем, оттенок Intense Rouge.
