@@ -1,6 +1,6 @@
 # Описание проекта
 ### Шопинг-ассистент: Copilot для удобного онлайн-шопинга
-Этот проект создан для хакатона IT Purple Hack в рамках кейса «Copilot для шопинга». Наша цель — улучшить клиентский опыт онлайн-шопинга, предоставляя пользователям интеллектуального помощника, который помогает находить лучшие товары под их потребности, бюджет и предпочтения.
+Этот проект создан для хакатона IT Purple Hack в рамках кейса «Copilot для шопинга». Цель проекта — улучшить клиентский опыт онлайн-шопинга, предоставляя пользователям интеллектуального помощника, который помогает находить лучшие товары под их потребности, бюджет и предпочтения. С этим проектом нам удалось получить максимальный балл в рамках выбранного кейса.
 ### Реализация
 Для удобства взаимодействия с нашим шопинг-ассистентом мы интегрировали его в Telegram-бота. Это решение позволит легко демонстрировать функционал жюри. Бот использует API Gemini для анализа данных и предоставления персонализированных рекомендаций.
 
@@ -36,16 +36,18 @@
 #### Требования
 - Python 3.12+
 - pip
+- Telegram Bot токен [(документация telegram, см. раздел BotFather)](https://core.telegram.org/bots/features#botfather)
+- Gemini API токен [(документация от google)](https://ai.google.dev/gemini-api/docs/api-key?hl=ru)
 - Docker (опционально)
 
 #### Настройка переменных окружения
 Для корректной работы бота необходимо настроить файл .env . Этот файл содержит важные конфигурационные параметры, которые используются в проекте. Бот использует Gemini API, поэтому для корректной работы из России требуется прокси-сервер.
 ```env
-BOT_TOKEN=your_telegram_bot_token   # Токен вашего бота
-GEMINI_URL=gemini_url               # Актуальный URL Gemini API
-PROXY_IP=your_proxy_ip_or_url       # Адрес прокси-сервера
-PROXY_LOGIN=your_proxy_login        # Логин для прокси
-PROXY_PASSWORD=your_proxy_password  # Пароль для прокси
+BOT_TOKEN=your_telegram_bot_token    # Токен вашего бота
+GEMINI_URL=gemini_url    # Актуальный URL для запросов к Gemini
+PROXY_IP=your_proxy_ip_or_url    # Адрес прокси-сервера
+PROXY_LOGIN=your_proxy_login    # Логин для прокси
+PROXY_PASSWORD=your_proxy_password    # Пароль для прокси
 ```
 
 #### Запуск без Docker
@@ -90,4 +92,4 @@ python bot/main.py
 - #### Вадим Симонов
     [![Связаться с Вадимом](https://img.shields.io/badge/Telegram-Contact%20Vadim-blue?style=flat-square&logo=telegram)](https://t.me/BigRuPanda)
 - #### Вячеслав Коваленко
-    [![Связаться с Вадимом](https://img.shields.io/badge/Telegram-Contact%20Slava-blue?style=flat-square&logo=telegram)](https://t.me/ItzEviLegenD)
+    [![Связаться со Славой](https://img.shields.io/badge/Telegram-Contact%20Slava-blue?style=flat-square&logo=telegram)](https://t.me/ItzEviLegenD)
